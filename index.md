@@ -11,5 +11,5 @@ layout: default
 
 ## 📌 Últimos write-ups
 
-- [HTB Reactor - Node.js Inspector Privilege Escalation](/tech-bites/2025-01-15-htb-reactor)
+- [HTB Reactor - Node.js Inspector Privilege Escalation](/tech-bites/2026-06-09-htb-reactor)
 - *Próximamente...*
