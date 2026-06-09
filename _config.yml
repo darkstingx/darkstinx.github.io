@@ -12,7 +12,7 @@ timezone: UTC
 site:
   title: "Darkstinx"
   description: "Write-ups de Hack The Box y seguridad informática"
-  url: "https://darkstingx.github.io"
+  url: "https://darkstinx.github.io"
   baseurl: "/spectrum"
   author: "Ignacio González"
   email: "nachogonzdom.com"
@@ -62,7 +62,7 @@ social:
       icon: "fa-solid fa-envelope"
     github:
       enabled: true
-      url: "https://github.com/darkstingx"
+      url: "https://github.com/darkstinx"
       label: "GitHub"
       icon: "fa-brands fa-github"
     linkedin:
