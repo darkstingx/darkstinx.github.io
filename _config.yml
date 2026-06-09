@@ -10,12 +10,12 @@ timezone: UTC
 
 # Site Identity
 site:
-  title: "Duhyeon Kim"
-  description: "Personal website showcasing tech insights and development journey"
-  url: "https://dudududukim.github.io"
+  title: "Darkstinx"
+  description: "Write-ups de Hack The Box y seguridad informática"
+  url: "https://darkstingx.github.io"
   baseurl: "/spectrum"
-  author: "Duhyeon Kim"
-  email: "kdhluck@naver.com"
+  author: "Ignacio González"
+  email: "nachogonzdom.com"
 
 # Theme Configuration
 site_theme:
@@ -46,7 +46,7 @@ site_theme:
 
 # Personal Information
 personal:
-  name: "Duhyeon Kim"
+  name: "Ignacio González"
   tagline: "spectrum jekyll owner"
   bio: "Developer passionate about technology, hardware, and continuous learning"
   location: "Seoul, Korea"
@@ -57,29 +57,19 @@ social:
   platforms:
     email:
       enabled: true
-      url: "mailto:kdhluck@naver.com"
+      url: "nachogonzdom@gmail.com"
       label: "Email"
       icon: "fa-solid fa-envelope"
     github:
       enabled: true
-      url: "https://github.com/dudududukim"
+      url: "https://github.com/darkstingx"
       label: "GitHub"
       icon: "fa-brands fa-github"
     linkedin:
       enabled: true
-      url: "https://www.linkedin.com/in/duhyeon-kim-6623082b1/"
+      url: "https://www.linkedin.com/in/ignacio-gonzalez-dominguez/"
       label: "LinkedIn"
       icon: "fa-brands fa-linkedin"
-    twitter:
-      enabled: false
-      url: "https://twitter.com/username"
-      label: "Twitter"
-      icon: "fa-brands fa-twitter"
-    instagram:
-      enabled: false
-      url: "https://instagram.com/username"
-      label: "Instagram"
-      icon: "fa-brands fa-instagram"
 
 # Accessibility Configuration
 accessibility:
