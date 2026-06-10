@@ -11,5 +11,10 @@ layout: default
 
 ## 📌 Últimos write-ups
 
+- [HTB Silentium - Flowise RCE + Gogs Symlink Privesc](/tech-bites/2026-06-10-htb-silentium)
 - [HTB Reactor - Node.js Inspector Privilege Escalation](/tech-bites/2026-06-09-htb-reactor)
-- *Próximamente...*
+
+## 📂 Archivo de write-ups
+
+- 2026-06-10: Silentium (Flowise RCE + Gogs CVE-2025-8110)
+- 2026-06-09: Reactor (Node.js Inspector Privesc)
