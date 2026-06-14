@@ -18,3 +18,4 @@ layout: default
 
 - 2026-06-10: Silentium (Flowise RCE + Gogs CVE-2025-8110)
 - 2026-06-09: Reactor (Node.js Inspector Privesc)
+   
