@@ -16,8 +16,8 @@ layout: default
 - [HTB Reactor - Node.js Inspector Privilege Escalation](/tech-bites/2026-06-09-htb-reactor)
 
 ## 🛠️ Herramientas
-- [PassPwned](https://github.com/darkstinx/tools/passpwned) - Comprobador de contraseñas comprometidas (HIBP k-Anonymity API) con interfaz Rich y generador de contraseñas
-- [SSH Log Analyzer](https://github.com/darkstinx/tools/recolectlog) - Analizador de logs SSH para detección de fuerza bruta y patrones de acceso sospechosos
+- [PassPwned](https://github.com/darkstinx/tools/passpwned/README.PY) - Comprobador de contraseñas comprometidas (HIBP k-Anonymity API) con interfaz Rich y generador de contraseñas
+- [SSH Log Analyzer](https://github.com/darkstinx/tools/recolectlog/README.PY) - Analizador de logs SSH para detección de fuerza bruta y patrones de acceso sospechosos
 
 ## 📂 Archivo de write-ups
 
