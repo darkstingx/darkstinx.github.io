@@ -17,8 +17,8 @@ layout: default
 - 
 ## 🛠️ Herramientas
 
-- [PassPwned](tools/passwpned/README.md) - Comprobador de contraseñas comprometidas (HIBP k-Anonymity API) con interfaz Rich y generador de contraseñas
-- [SSH Log Analyzer](tools/recolectlog/README.md) - Analizador de logs SSH para detección de fuerza bruta y patrones de acceso sospechosos
+- [PassPwned](https://github.com/darkstinx/Passpwned) - Comprobador de contraseñas comprometidas (HIBP k-Anonymity API) con interfaz Rich y generador de contraseñas
+- [RecolectLog](https://github.com/darkstinx/RecolectLog) - Analizador de logs SSH para detección de fuerza bruta y patrones de acceso sospechosos
 - 
 ## 📂 Archivo de write-ups
 
