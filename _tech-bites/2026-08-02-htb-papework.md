@@ -278,7 +278,7 @@ ADMIN_PASSWORD=ApparelMortuaryCedar22
 
 ```bash
 su - root
-# Password: ApparelMortuaryCedar22
+# Password: *************
 
 whoami
 # root
