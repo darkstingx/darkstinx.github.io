@@ -11,7 +11,6 @@ layout: default
 - [HTB Paperwork - LPD Command Injection + PJL Directory Traversal + Socket FD Leak](/tech-bites/2026-08-02-htb-paperwork)
 - [HTB Fireflow - Langflow RCE + JWT Forgery + Kubernetes Privesc](/tech-bites/2026-07-07-htb-fireflow)
 - [HTB Cap - FTP IDOR + PwnKit Privilege Escalation](/tech-bites/2026-07-06-htb-cap)
-- [HTB Silentium - Flowise RCE + Gogs Symlink Privesc](/tech-bites/2026-06-10-htb-silentium)
 
 ## 🛠️ Herramientas
 - [PassPwned](https://github.com/darkstinx/Passpwned) - Comprobador de contraseñas comprometidas (HIBP k-Anonymity API) con interfaz Rich y generador de contraseñas
