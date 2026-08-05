@@ -2,7 +2,6 @@
 
 ![Badge](https://img.shields.io/badge/Difficulty-Easy-brightgreen)
 ![Badge](https://img.shields.io/badge/OS-Linux-red)
-![Badge](https://img.shields.io/badge/Points-20-blue)
 
 ## Machine Summary
 
