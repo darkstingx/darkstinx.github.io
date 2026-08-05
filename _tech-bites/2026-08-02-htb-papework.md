@@ -1,7 +1,9 @@
-# Paperwork - HackTheBox Writeup
-
-![Badge](https://img.shields.io/badge/Difficulty-Easy-brightgreen)
-![Badge](https://img.shields.io/badge/OS-Linux-red)
+---
+title: "HTB Paperwork - Write-Up"
+date: 2026-08-02
+categories: [Hack The Box]
+tags: [lpd, command-injection, pjl, directory-traversal, ssh-injection, fd-leak, privilege-escalation]
+---
 
 ## Machine Summary
 
