@@ -1,7 +1,9 @@
-# Enigma - HackTheBox Writeup
-
-![Badge](https://img.shields.io/badge/Difficulty-Easy-brightgreen)
-![Badge](https://img.shields.io/badge/OS-Linux-red)
+---
+title: "HTB Enigma - Write-Up"
+date: 2026-08-05
+categories: [Hack The Box]
+tags: [nfs, imap, openstamanager, rce, bcrypt, olivetin, command-injection, privilege-escalation]
+---
 
 ## Machine Summary
 
