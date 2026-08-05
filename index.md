@@ -11,7 +11,6 @@ layout: default
 - [HTB Enigma - NFS Exposure + IMAP Pivoting + OpenSTAManager RCE + OliveTin Command Injection](/tech-bites/2026-08-05-htb-enigma) [Máquina Activa]
 - [HTB Paperwork - LPD Command Injection + PJL Directory Traversal + Socket FD Leak](/tech-bites/2026-08-02-htb-paperwork) [Máquina Activa]
 - [HTB Fireflow - Langflow RCE + JWT Forgery + Kubernetes Privesc](/tech-bites/2026-07-07-htb-fireflow)
-- [HTB Cap - FTP IDOR + PwnKit Privilege Escalation](/tech-bites/2026-07-06-htb-cap)
   
 ## 🛠️ Herramientas
 - [VulnScan](https://github.com/darkstinx/VulnScan) - Escáner de vulnerabilidades en dependencias Python (OSV.dev): deduplica por CVE/GHSA, muestra severidad y versión de fix, exportable a JSON/CSV
