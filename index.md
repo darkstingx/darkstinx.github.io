@@ -8,6 +8,7 @@ layout: default
 [Contacto](mailto:nachogonzdom@gmail.com)
 
 ## 📌 Últimos write-ups
+- [HTB Enigma - NFS Exposure + IMAP Pivoting + OpenSTAManager RCE + OliveTin Command Injection](/tech-bites/2026-08-05-htb-enigma) [Máquina Activa]
 - [HTB Paperwork - LPD Command Injection + PJL Directory Traversal + Socket FD Leak](/tech-bites/2026-08-02-htb-paperwork) [Máquina Activa]
 - [HTB Fireflow - Langflow RCE + JWT Forgery + Kubernetes Privesc](/tech-bites/2026-07-07-htb-fireflow)
 - [HTB Cap - FTP IDOR + PwnKit Privilege Escalation](/tech-bites/2026-07-06-htb-cap)
@@ -20,6 +21,7 @@ layout: default
 - [CredHunter](https://github.com/darkstinx/CredHunter) - Escáner de credenciales expuestas en directorios home de Linux con clasificación por severidad y salida JSON
   
 ## 📂 Archivo de write-ups
+- 2026-08-05: [Enigma](/tech-bites/2026-08-05-htb-enigma) (NFS Exposure + IMAP Pivoting + OpenSTAManager RCE + OliveTin Command Injection)[Máquina Activa]
 - 2026-08-02: [Paperwork](/tech-bites/2026-08-02-htb-paperwork) (LPD Command Injection + PJL Directory Traversal + Unix Socket FD Leak) [Máquina Activa]
 - 2026-07-07: [Fireflow](/tech-bites/2026-07-07-htb-fireflow) (Langflow CVE-2026-33017 + JWT none + Kubernetes nodes/proxy)
 - 2026-07-06: [Cap](/tech-bites/2026-07-06-htb-cap) (FTP IDOR + CVE-2021-4034 PwnKit)
