@@ -378,6 +378,5 @@ cat /root/root.txt
 
 ---
 
-*Writeup by: darkstinx*
-
-*Date: August 5, 2026*
+*Writeup by: Darkstinx*  
+*Date: August 2, 2026*
