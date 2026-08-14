@@ -13,6 +13,7 @@ layout: default
 - [HTB Fireflow - Langflow RCE + JWT Forgery + Kubernetes Privesc](/tech-bites/2026-07-07-htb-fireflow)
   
 ## 🛠️ Herramientas
+- [OracleCryptAudit](https://github.com/darkstinx/OracleCryptAudit) - Auditor de postura de cifrado en Oracle: TDE Wallet, tablespaces, columnas cifradas, detección heurística de PII sin proteger
 - [VulnScan](https://github.com/darkstinx/VulnScan) - Escáner de vulnerabilidades en dependencias Python (OSV.dev): deduplica por CVE/GHSA, muestra severidad y versión de fix, exportable a JSON/CSV
 - [PassPwned](https://github.com/darkstinx/Passpwned) - Comprobador de contraseñas comprometidas (HIBP k-Anonymity API) con interfaz Rich y generador de contraseñas
 - [RecolectLog](https://github.com/darkstinx/RecolectLog) - Analizador de logs SSH para detección de fuerza bruta y patrones de acceso sospechosos
