@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Cursos"
+title: "Cursos y Certificaciones"
 description: "Formación y certificaciones de Ignacio González"
 ---
 # 🎓 Cursos
