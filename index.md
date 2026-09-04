@@ -13,13 +13,14 @@ layout: default
 - [HTB Paperwork - LPD Command Injection + PJL Directory Traversal + Socket FD Leak](/tech-bites/2026-08-02-htb-paperwork) [Máquina Activa]
 - [HTB Fireflow - Langflow RCE + JWT Forgery + Kubernetes Privesc](/tech-bites/2026-07-07-htb-fireflow)
 
-[Ver todos los write-ups →](/writeups/)
+  [Ver todos los write-ups →](/writeups/)
 
 ## 🛠️ Herramientas
 - [OracleCryptAudit](https://github.com/darkstinx/OracleCryptAudit) - Auditor de postura de cifrado en Oracle: TDE Wallet, tablespaces, columnas cifradas, detección heurística de PII sin proteger
 
-[Ver todas las herramientas →](/herramientas/)
+  [Ver todas las herramientas →](/herramientas/)
 
 ## 🎓 Cursos y 📜 Certificaciones
 - [Introducción a Linux](https://hack4u.io/certificate/0040-1279-3441-0484) · Hack4u (S4vitar) · Completado ✓
-[Ver todos los cursos y certificaciones →](/cursos-certificaciones/)
+  
+  [Ver todos los cursos y certificaciones →](/cursos-certificaciones/)
