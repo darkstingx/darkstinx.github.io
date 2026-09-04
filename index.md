@@ -16,9 +16,10 @@ layout: default
 [Ver todos los write-ups →](/writeups/)
 
 ## 🛠️ Herramientas
-Herramientas de seguridad ofensiva y análisis desarrolladas en Python.
+- [OracleCryptAudit](https://github.com/darkstinx/OracleCryptAudit) - Auditor de postura de cifrado en Oracle: TDE Wallet, tablespaces, columnas cifradas, detección heurística de PII sin proteger
 
 [Ver todas las herramientas →](/herramientas/)
 
 ## 🎓 Cursos y 📜 Certificaciones
+- [Introducción a Linux](https://hack4u.io/certificate/0040-1279-3441-0484) · Hack4u (S4vitar) · Completado ✓
 [Ver todos los cursos y certificaciones →](/cursos-certificaciones/)
