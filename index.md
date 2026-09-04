@@ -20,5 +20,5 @@ Herramientas de seguridad ofensiva y análisis desarrolladas en Python.
 
 [Ver todas las herramientas →](/herramientas/)
 
-## 🎓 Cursos
+## 🎓 Cursos y Certificaciones
 [Ver todos los cursos →](/cursos-certificaciones/)
