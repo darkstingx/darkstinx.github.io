@@ -4,7 +4,8 @@ layout: default
 # Write-ups & Cyber
 [GitHub](https://github.com/darkstinx) • 
 [LinkedIn](https://www.linkedin.com/in/ignacio-gonzalez-dominguez/) • 
-[CV](/assets/cv.pdf) • 
+[CV (ES)](/assets/cv.pdf) •
+[CV (EN)](/assets/cv_en.pdf) •
 [Contacto](mailto:nachogonzdom@gmail.com)
 
 ## 📌 Últimos write-ups
